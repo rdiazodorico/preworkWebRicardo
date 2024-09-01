@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+
+
+body {
+    font-family: 'Roboto Condensed';
+}
+
+h1 {
+    font-size: 9em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 5em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 3.8em;
+    text-align: center;
+    line-height: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    letter-spacing: 0.4px;
+    line-height: 1em;
+}
+
+h5 {
+    font-size: 1.2em;
+    line-height: 1em;
+}
+
+nav {
+    text-align: center;
+    word-spacing: 100px;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(7, 7, 82);
+
+}
+
+.nav_element {
+    color: rgb(240, 237, 237);
+}
+
+.header {
+
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background-image: url(./images/ironhack-skydive-background.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 500px;
+}
+
+.main_title {
+    font-size: 60px;
+    margin-bottom: 20x;
+}
+
+.logo {
+    position: absolute;
+    top: 2px;
+    padding-top: 170px;
+    padding-left: 430px;
+}
+
+.subtitle_padding {
+    text-align: center;
+    padding-bottom: 300px;
+    padding-bottom: 20px;
+}
+
+.aside_text {
+    text-align: left;
+    padding-left: 100px;
+    size: 100px;
+}
+
+.shadow_white {
+    color: beige;
+    text-shadow: #020819 8px -20px 9px;
+}
+
+hr {
+    margin: 70px 0px 0px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+
+.section_1 {
+    padding-left: 25px;
+    text-align: center;
+    font-size: 2em;
+    font-weight: 100;
+    color: white;
+    background-color: rgb(5, 5, 69);
+}
+
+.section_1_title,
+.section_1_text,
+.section_1_link {
+    display: flex;
+    flex-direction: row;
+}
+
+.section_2_subtitle {
+    text-align: center;
+}
+
+.section_3 {
+    padding-left: 25px;
+}
+
+.section_3_title_padding {
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.section_3_line_height {
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.section_2_subtitle {
+    padding-left: 25px;
+    padding-bottom: 20px;
+}
+
+.schedule_table {
+    width: 100px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px;
+    border: solid;
+    border-color: rgb(0, 0, 0, 0.1);
+}
+
+.table_boxes {
+    padding: 40px;
+    border: 1px;
+    border: ridge;
+    border-color: rgb(255, 255, 255);
+}
+
+.table_boxes_time {
+    background-color: rgb(165, 42, 42, 0.2);
+    padding: 40px;
+    border: 1px;
+    border: ridge;
+}
+
+
+tbody {
+    writing-mode: vertical-lr;
+}
+
+.rows {
+    text-align: center;
+    width: 100px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.549);
+
+}
+
+.members_distance {
+    line-height: 2px;
+}
+
+.members_padding {
+    padding-left: 20px;
+}
+
+.schedule_title {
+    text-align: right;
+    font-size: 60px;
+    padding-right: 20px;
+}
+
+.time_slot_padding {
+    padding-left: 40px;
+}
+
+.footer_padding {
+    padding-left: 20px;
+}
+
+#adress_margin {
+    margin-bottom: 60px;
+    margin-top: -32px;
+}
+
+.links_padding {
+    margin-top: -20px;
+}
+
+.logos_align {
+    padding-left: 200px;
+    padding-top: 20px;
+    width: 125px;
+}
+
+.team_members_images {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 1500px;
+    height: 1000px;
+}
+
+p {
+    padding-left: 20px;
+    font-family: 'Roboto';
+}
+
+
+.x {
+    padding-left: 70px;
+    text-transform: uppercase;
+}
